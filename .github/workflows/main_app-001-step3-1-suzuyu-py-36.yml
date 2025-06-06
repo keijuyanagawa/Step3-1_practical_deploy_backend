@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'app-001-step3-1-suzuyu-py-36'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_771D283E9AD141B094898EE1A1C77CFC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E2A0E94EDC24C57B529DAF6312905F2 }}
