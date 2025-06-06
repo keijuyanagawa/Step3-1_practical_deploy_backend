@@ -20,3 +20,4 @@ node_modules/
 # その他
 *.log
 .DS_Store
+DigiCertGlobalRootCA.crt.pem
